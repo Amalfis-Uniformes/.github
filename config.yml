@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Formulário de demandas (porta de entrada)
+    url: https://felipijohnny.atlassian.net/jira/software/c/form/008bb915-319e-40d7-8c6e-0fd2082a9abb
+    about: Pedidos de outras áreas (melhoria, erro, acesso, sistema novo) entram pelo formulário e viram item no Jira.
